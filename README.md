@@ -29,5 +29,5 @@ Shall we ?
 ## Visualizations
 Click any of the link below to head over to the visualizations page.
 
-#### [1. General Government Dept](https://jnrkufuor.github.io/kufuor-portfolio/debt-to-gdp-ratio-flourish)
+#### [1. General Government Dept](https://jnrkufuor.github.io/kufuor-portfolio/debt-to-gdp-flourish)
 

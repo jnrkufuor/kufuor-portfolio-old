@@ -25,3 +25,9 @@ All in all, I hope to give it my best and have fun while at it :muscle:
 Shall we ?
 
 ![Alt Text](https://media.giphy.com/media/26uf7rl7j6RVibDz2/giphy.gif)
+
+## Visualizations
+Click any of the link below to head over to the visualizations page.
+
+#### [1. General Government Dept](https://jnrkufuor.github.io/kufuor-portfolio/debt-to-gdp-ratio-flourish)
+

@@ -14,4 +14,12 @@ Three different charts were used to visualize the data. Find them below.
 #### 2.Grid of Line Charts
 <div class="flourish-embed flourish-chart" data-src="visualisation/5290693"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### 3.Grid of Line Charts
+#### 3.Heatmap
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/5290977"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+#### Notes
+
+###### On Line Charts
+Line charts provide a means to view the evolution of several distinct data points as one continuis line. They are helpful in visualizing one data point relative to another, in the context of this work: the debt-to-equity ratio in relation to time. In using a grid of line charts, we can see how individual countries are performing and how things have progressed or declined over the years, allowing us to see a trend in the data. 
+###### On Heat Maps
+Heatmaps,on the other hand, present a means to compare data across categories. I used a heatmap here because it provides a new dimension to view our data. Now we get to really see how sustainable the government finances of a country are and compare it with other countries and visualize the trend of liabilities for each country. In hindsight, the different categories being visualized here are, instead of distinct categories, a range between 0(the lowest) and 240(the highest).

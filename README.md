@@ -30,4 +30,5 @@ Shall we ?
 Click any of the link below to head over to the visualizations page.
 
 #### [1. General Government Dept](https://jnrkufuor.github.io/kufuor-portfolio/debt-to-gdp-flourish)
+#### [2. Highest Paid Athletes in 2017](https://jnrkufuor.github.io/kufuor-portfolio/highest-paid-athletes-2017)
 

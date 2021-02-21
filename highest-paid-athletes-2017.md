@@ -39,8 +39,11 @@ After this, I proceeded to wireframe my ideas of what I thought would make clear
 I did this on pen and paper. After a first iteration of my idea, I personally critiqued it and asked myself the same questions I did the main chart. I took that feedback and went into a second iteration and did the same with a third iteration.
 My process was built around, "Does it make sense to me first?". You can find the initial iterations below:
 
-![alt text](https://jnrkufuor.github.io/kufuor-portfolio/20210221_122057.jpg)
-![alt text](https://jnrkufuor.github.io/kufuor-portfolio/20210221_185640.jpg)
+1. Prototype 1
+<br><img src="https://jnrkufuor.github.io/kufuor-portfolio/20210221_185640.jpg" width="600">
+
+2.Refined Prototype
+<br><img src="https://jnrkufuor.github.io/kufuor-portfolio/20210221_122057.jpg" width="600">
 
 
 #### Testing
